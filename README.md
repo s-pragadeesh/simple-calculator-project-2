@@ -1,1 +1,1 @@
-HERE A SIMPLE CALCULATOR IS CREATEC USING JAVASCRIPT BY THE USE OF HTML,CSS
+Here a Simple Calculator is created using javascript by use of html,css
